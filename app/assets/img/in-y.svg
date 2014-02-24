@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- License Agreement at http://iconmonstr.com/license/ -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   x="0px"
+   y="0px"
+   width="512px"
+   height="512px"
+   viewBox="0 0 512 512"
+   enable-background="new 0 0 512 512"
+   xml:space="preserve"
+   id="svg2"
+   inkscape:version="0.48.3.1 r9886"
+   sodipodi:docname="in.svg"><metadata
+   id="metadata9"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs7" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="705"
+   inkscape:window-height="480"
+   id="namedview5"
+   showgrid="false"
+   inkscape:zoom="0.4609375"
+   inkscape:cx="-62.915254"
+   inkscape:cy="256"
+   inkscape:window-x="0"
+   inkscape:window-y="22"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="svg2" />
+<path
+   id="instagram-6-icon"
+   fill-rule="evenodd"
+   clip-rule="evenodd"
+   d="M414.474,224.292h-35.869  c2.613,10.145,4.156,20.744,4.156,31.699c0,70.023-56.752,126.773-126.761,126.773s-126.763-56.75-126.763-126.773  c0-10.955,1.549-21.555,4.162-31.699H97.53V398.61c0,8.742,7.096,15.832,15.86,15.832h285.219c8.766,0,15.864-7.09,15.864-15.832  V224.292z M414.474,113.378c0-8.75-7.099-15.846-15.864-15.846h-47.526c-8.756,0-15.846,7.096-15.846,15.846v47.545  c0,8.744,7.09,15.846,15.846,15.846h47.526c8.766,0,15.864-7.102,15.864-15.846V113.378z M256,176.769  c-43.763,0-79.233,35.463-79.233,79.223c0,43.756,35.471,79.24,79.233,79.24c43.759,0,79.237-35.484,79.237-79.24  C335.237,212.231,299.759,176.769,256,176.769 M414.474,461.999H97.53c-26.246,0-47.53-21.289-47.53-47.557V97.532  c0-26.254,21.284-47.531,47.53-47.531h316.943c26.25,0,47.526,21.277,47.526,47.531v316.91  C462,440.71,440.724,461.999,414.474,461.999"
+   style="fill:#121225;fill-opacity:1" />
+</svg>
